@@ -10,7 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vijay-kumar-571bb1221/" target="blank"><img align="https://media.licdn.com/dms/image/D5603AQGidhLrp00_aQ/profile-displayphoto-shrink_400_400/0/1714542337551?e=1724284800&v=beta&t=CBEUdaHhmp5qozEA9Jd_Es8nAuSdl9QpPu4NsEbymB0" alt="vijay kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijay-kumar-571bb1221/" target="blank"><img align="centhttps://www.linkedin.com/in/vivek-jha-16b61b226/er" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek jha" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/u/kvijay66071/" target="blank"><img align="center" src="https://assets.leetcode.com/users/avatars/avatar_1687195212.png" alt="vivekjha07777" height="30" width="40" /></a>
 
 </p>
