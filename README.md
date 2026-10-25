@@ -23,8 +23,12 @@
 
 ### Featured project
 
-**[Django Seeds](https://github.com/vijay66071/djago-seeds)**  
-A Django e-commerce project with product browsing, a shopping cart, and checkout pages.
+**[LearnFlow](https://github.com/vijay66071/LearnFlow)**  
+A local document assistant built with React, TypeScript, and FastAPI. Upload text, Markdown, or PDF files and ask questions answered using relevant passages from your documents.
+
+- Semantic search with local Chroma vector storage
+- SQLite for document metadata and extracted passages
+- OpenAI embeddings and source-grounded answers
 
 ### Languages and tools
 
